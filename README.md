@@ -77,8 +77,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [mhrv-rs-android-universal-v1.9.8](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.8)
+
+2. [mhrv-rs-windows-amd64](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
 ---
