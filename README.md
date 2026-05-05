@@ -83,14 +83,18 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [mhrv-rs-android-arm64-v8a-v1.9.8](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.8)
 
-2. [mhrv-rs-android-universal-v1.9.10](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.10)
+2. [mhrv-rs-android-armeabi-v7a-v1.9.8](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-armeabi-v7a-v1.9.8)
 
-3. [mhrv-rs-android-universal-v1.9.8](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.8)
+3. [mhrv-rs-android-universal-v1.9.10](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.10)
 
-4. [mhrv-rs-windows-amd64](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+4. [mhrv-rs-android-universal-v1.9.8](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.8)
+
+5. [mhrv-rs-windows-amd64](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
 ---
