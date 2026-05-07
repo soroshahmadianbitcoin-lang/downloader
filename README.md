@@ -89,20 +89,24 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [DeepSeek-V3](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/DeepSeek-V3)
 
-2. [mhrv-rs-android-arm64-v8a-v1.9.8](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.8)
+2. [mhrv-rs-android-arm64-v8a-v1.9.17](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.17)
 
-3. [mhrv-rs-android-armeabi-v7a-v1.9.8](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-armeabi-v7a-v1.9.8)
+3. [mhrv-rs-android-arm64-v8a-v1.9.8](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.8)
 
-4. [mhrv-rs-android-universal-v1.9.10](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.10)
+4. [mhrv-rs-android-armeabi-v7a-v1.9.8](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-armeabi-v7a-v1.9.8)
 
-5. [mhrv-rs-android-universal-v1.9.8](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.8)
+5. [mhrv-rs-android-universal-v1.9.10](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.10)
 
-6. [mhrv-rs-windows-amd64](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+6. [mhrv-rs-android-universal-v1.9.8](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.8)
 
-7. [mhrv-rs-windows-amd64_omega_13298](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-windows-amd64_omega_13298)
+7. [mhrv-rs-windows-amd64](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+
+8. [mhrv-rs-windows-amd64_omega_13298](https://github.com/soroshahmadianbitcoin-lang/downloader/tree/main/downloads/mhrv-rs-windows-amd64_omega_13298)
 
 ---
